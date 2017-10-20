@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Apple Store</string>
+    <string name="first_msg"> Welcome dear user</string>
+    <string name="val">0</string>
+    <string name="b1">Increment</string>
+    <string name="b2">Decrement</string>
+    <string name="b3">Continue To Next Activity</string>
+    <string name="second_msg">My second activity</string>
+    <string name="launcher_msg">Flash Screen </string>
+    <string name="first">FIrst msg</string>
+    <string name="second">second msg</string>
+    <string name="third">third msg</string>
+    <string name="fourth">Fourth msg</string>
+    <string name="fifth">Fifth msg</string>
+    <string name="six">six msg</string>
+    <string name="seven">seven msg</string>
+    <string name="productname">Quantity</string>
+    <string name="bn3">Total price</string>
+    <string name="p">Price</string>
+    <string name="mail">Send to gmail</string>
+</resources>
